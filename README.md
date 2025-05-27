@@ -26,7 +26,7 @@
 ---
 
 ## Структура проекта
-
+<pre>
 ├── src/
 │   ├── main.py         # Точка входа FastAPI
 │   ├── routes.py       # Маршруты приложения
@@ -40,7 +40,7 @@
 ├── Dockerfile          # Dockerfile
 ├── requirements.txt    # Зависимости Python
 └── README.md           # Этот файл
-
+</pre>
 ## Быстрый старт
 
 - Клонировать репозиторий
